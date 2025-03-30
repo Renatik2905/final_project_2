@@ -3,7 +3,7 @@ from telegram import Update, ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKe
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext, CallbackQueryHandler
 
 # Токен бота
-TOKEN = "7753771624:AAET2iwRX4YeBHkTKaNGHj2VybLvVgvDV5Y"
+TOKEN = ""
 
 # Флаг для отслеживания состояния
 awaiting_admin_id = {}
